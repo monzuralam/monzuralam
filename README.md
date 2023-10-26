@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Monzur Alam</h1>
 <h3>A passionate Full Stack WordPress developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **DDMG Bangladesh**
+- 🔭 I’m currently working on **Data Fanatics**
 
 - 🌱 I’m currently learning **JavaScript**
 
